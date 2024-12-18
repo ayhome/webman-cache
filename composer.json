@@ -1,5 +1,5 @@
 {
-  "name": "webman/think-cache",
+  "name": "ayhome/webman-cache",
   "type": "library",
   "license": "MIT",
   "require": {
